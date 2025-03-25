@@ -66,4 +66,4 @@ This repository contains the backend codebase for The Hub, a community-focused w
 
 ## Contact
 
-For questions or feedback, reach out to our team or raise a GitHub issue.
+For questions or feedback, reach out to our team or raise a GitHub issue
